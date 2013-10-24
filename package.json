@@ -4,7 +4,7 @@
   "description": "cssauron language for glsl asts from glsl-parser",
   "main": "index.js",
   "dependencies": {
-    "cssauron": "X.X.X"
+    "cssauron": "0.X.X"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
