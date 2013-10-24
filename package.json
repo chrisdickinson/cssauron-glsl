@@ -1,6 +1,6 @@
 {
   "name": "cssauron-glsl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "cssauron language for glsl asts from glsl-parser",
   "main": "index.js",
   "dependencies": {
